@@ -11,10 +11,11 @@
 ## 使用流程
 1. 編譯 : g++ fakeshell.cpp -o out 
 2. 執行 : ./out
-3. 螢幕顯示偽造提示字元，格式為 	  
-	{HOSTNAME} : {PWD} 
-    {USERNAME} > 
-	請使用者開始輸入命令(e.g. ls, touch, less......)，結束程式之命令為exit
+3. 螢幕顯示偽造提示字元，格式為  
+	{HOSTNAME} : {PWD}  
+    {USERNAME} >  
+	請使用者開始輸入命令(e.g. ls, touch, less......)，結束程式之命令為exit  
 
 ## 程式驗證結果
-
+![image](https://github.com/YunTing-Lee/Fake-Shell/blob/main/Picture/1.PNG)
+![image](https://github.com/YunTing-Lee/Fake-Shell/blob/main/Picture/2.PNG)
