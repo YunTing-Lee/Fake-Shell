@@ -18,4 +18,4 @@
 
 ## 程式驗證結果
 ![image](https://github.com/YunTing-Lee/Fake-Shell/blob/main/Picture/1.PNG)
-![image](https://github.com/YunTing-Lee/Fake-Shell/blob/main/Picture/2.PNG)
+![image](https://github.com/YunTing-Lee/Fake-Shell/blob/main/Picture/2.PNG) 
